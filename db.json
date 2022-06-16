@@ -1,0 +1,32 @@
+{
+  "superheroes": [
+      {
+        "id": 1,
+        "name": "Chandler Bing"
+      },
+      {
+        "id": 2,
+        "name": "Joey Tribbiani"
+      },
+      {
+        "id": 3,
+        "name": "Rachel Green"
+      },
+      {
+        "id": 4,
+        "name": "Rachel Green"
+      },
+      {
+        "id": 5,
+        "name": "Rachel Green"
+      },
+      {
+        "id": 6,
+        "name": "Rachel Green"
+      },
+      {
+        "id": 7,
+        "name": "Rachel Green"
+      }
+    ]  
+  }
